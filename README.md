@@ -24,5 +24,5 @@ Learning:
 
 
 ## Let's connect!
-<a href="httos://www.linkedin.com/in/ezequiel-etchechuri-guillama"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:etchechuriwork@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="40"></a>|<a href="https://www.instagram.com/ezequiel_etchechuri"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
+<a href="https://www.linkedin.com/in/ezequiel-etchechuri-guillama"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:etchechuriwork@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="40"></a>|<a href="https://www.instagram.com/ezequiel_etchechuri"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
 |--|--|--|
