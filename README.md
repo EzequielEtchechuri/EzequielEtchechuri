@@ -21,7 +21,15 @@ Learning:
 |--|--|--|
 
 ## Projects
+I am currently working on my portfolio, and my intention is to complete at least three projects, each indirectly related to my previous work.
+Obviously, any sensitive information will be redacted.
 
+Project 1:
+In my first job in the healthcare sector, I worked in human resources for a foreign company, where I approved or denied medical leave related to COVID. I managed leave payments and contacted employee supervisors. My experience allowed me to see firsthand how medical absences affected productivity. This project analyzes that same phenomenon on a global level.
+
+Project 2:  
+
+Project 3:
 
 ## Let's connect!
 <a href="https://www.linkedin.com/in/ezequiel-etchechuri-guillama"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:etchechuriwork@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="40"></a>|<a href="https://www.instagram.com/ezequiel_etchechuri"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
