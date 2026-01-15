@@ -24,7 +24,7 @@ Learning:
 I am currently working on my portfolio, and my intention is to complete at least three projects, each indirectly related to my previous work.
 Obviously, any sensitive information will be redacted.
 
-Project 1:
+[Project 1:](https://github.com/EzequielEtchechuri/COVID_Project1)
 In my first job in the healthcare sector, I worked in human resources for a foreign company, where I approved or denied medical leave related to COVID. I managed leave payments and contacted employee supervisors. My experience allowed me to see firsthand how medical absences affected productivity. This project analyzes that same phenomenon on a global level.
 
 Project 2:  
