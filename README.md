@@ -25,9 +25,10 @@ I am currently working on my portfolio, and my intention is to complete at least
 Obviously, any sensitive information will be redacted.
 
 [Project 1:](https://github.com/EzequielEtchechuri/COVID_Project1)
-In my first job in the healthcare sector, I worked in human resources for a foreign company, where I approved or denied medical leave related to COVID. I managed leave payments and contacted employee supervisors. My experience allowed me to see firsthand how medical absences affected productivity. This project analyzes that same phenomenon on a global level.
+In my first job in the healthcare sector, I worked in human resources for a foreign company, where I approved or denied medical leave related to COVID. I managed leave payments and contacted employee supervisors. My experience allowed me to see firsthand how medical absences affected productivity. This project analyzes that same phenomenon on a global level using Excel and Power BI.
 
-Project 2:  
+Project 2: ***Still working on it. Using SQL + Power Bi***  
+During my second job in the financial sector, I worked as a loan specialist, where I evaluated personal loan applications based on credit history, collateral (such as vehicles), credit card usage, and existing debt. This experience gave me a deep understanding of how financial institutions assess risk and make decisions about granting loans. This project seeks to replicate that decision-making process using SQL for data extraction and transformation, and Power BI for interactive visualization.
 
 Project 3:
 
