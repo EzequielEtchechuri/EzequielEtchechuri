@@ -27,10 +27,10 @@ Obviously, any sensitive information will be redacted.
 [Project 1:](https://github.com/EzequielEtchechuri/COVID_Project1)
 In my first job in the healthcare sector, I worked in human resources for a foreign company, where I approved or denied medical leave related to COVID. I managed leave payments and contacted employee supervisors. My experience allowed me to see firsthand how medical absences affected productivity. This project analyzes that same phenomenon on a global level using Excel and Power BI.
 
-Project 2: ***Still working on it. Using SQL + Power Bi***  
+[Project 2:](https://github.com/EzequielEtchechuri/CREDIT_Project2)  
 During my second job in the financial sector, I worked as a loan specialist, where I evaluated personal loan applications based on credit history, collateral (such as vehicles), credit card usage, and existing debt. This experience gave me a deep understanding of how financial institutions assess risk and make decisions about granting loans. This project seeks to replicate that decision-making process using SQL for data extraction and transformation, and Power BI for interactive visualization.
 
-Project 3:
+Project 3: ***Still working on it. Using Python***
 
 ## Let's connect!
 <a href="https://www.linkedin.com/in/ezequiel-etchechuri-guillama"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:etchechuriwork@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="40"></a>|<a href="https://www.instagram.com/ezequiel_etchechuri"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
